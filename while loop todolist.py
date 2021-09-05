@@ -1,3 +1,5 @@
+#this will request a user to input the activities to be done.
+#then print them out at the end
 todolist = []
 while True:
     activity =(input("Enter activity to do"))
